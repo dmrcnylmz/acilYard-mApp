@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yardım Lazım</string>
+    <string name="start_updates">START LOCATION UPDATES</string>
+    <string name="stop_updates">STOP LOCATION UPDATES</string>
+    <string name="get_last_location">GET LAST LOCATION</string>
+
+    <string name="hello">Simple Database Example!</string>
+    <string name="form_userName">Kullanıcı Adı</string>
+    <string name="form_password">Şifre</string>
+    <string name="form_button_save">Kayıt</string>
+    <string name="form_button_getAll">Tüm Kullanıcı Adları</string>
+</resources>
